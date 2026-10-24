@@ -1,6 +1,6 @@
 # Fork customizations — SanityHarness
 
-- Fork: https://github.com/RichelynScott/SanityHarness.git; upstream: https://github.com/lemon07r/SanityHarness.git; branch checked: main @ 34ba88c; upstream ref: upstream/main @ 34ba88c; merge-base: 34ba88c; fork-only commits: 0; drafted by ollama-cloud/deepseek-v4.1-flash on 2026-10-24 (drafted by DeepSeek V4.1 Flash; reviewed by suni_3_n 2026-10-24)
+- Fork: https://github.com/RichelynScott/SanityHarness.git; upstream: https://github.com/lemon07r/SanityHarness.git; branch checked: main @ 34ba88c; upstream ref: upstream/main @ 34ba88c; merge-base: 34ba88c; fork-only commits: 0; drafted by ollama-cloud/deepseek-v4.1-flash on 2026-10-24 (drafted by DeepSeek V4.1 Flash from cached upstream refs; header and spot rows checked by suni_3_n 2026-10-24, not a full review)
 - Expert skill: /home/richie/.hermes/skills/fork-management/sanity-harness-docs-config-expert/SKILL.md (present, 19891 bytes; not installed under ~/.agents, ~/.claude, ~/.codex, or ~/.omp skills trees); .fork-sync.yml: absent
 
 **Result: zero verified customizations.** This fork carries no fork-only commits and no file-level divergence from upstream. `git rev-list --left-right --count HEAD...upstream/main` → `0 0`; merge-base equals HEAD; `git diff --stat 34ba88c HEAD` is empty; `git diff --name-status $(git merge-base HEAD upstream/main) HEAD` is empty. The private `origin` remote is identity evidence, not feature evidence. The rows below therefore record *absence* with its evidence, not hidden customizations.
